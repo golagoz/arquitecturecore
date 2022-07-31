@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Escritorio\NET\ASP.NET-Core-6-and-Angular-main\Chapter_06\WorldCities\WorldCitiesAPI\Layer.DataAcces\bin\Debug\net6.0\Layer.DataAcces.deps.json
+C:\Users\HP\OneDrive\Escritorio\NET\ASP.NET-Core-6-and-Angular-main\Chapter_06\WorldCities\WorldCitiesAPI\Layer.DataAcces\bin\Debug\net6.0\Layer.DataAcces.runtimeconfig.json
+C:\Users\HP\OneDrive\Escritorio\NET\ASP.NET-Core-6-and-Angular-main\Chapter_06\WorldCities\WorldCitiesAPI\Layer.DataAcces\bin\Debug\net6.0\Layer.DataAcces.dll
+C:\Users\HP\OneDrive\Escritorio\NET\ASP.NET-Core-6-and-Angular-main\Chapter_06\WorldCities\WorldCitiesAPI\Layer.DataAcces\bin\Debug\net6.0\Layer.DataAcces.pdb
+C:\Users\HP\OneDrive\Escritorio\NET\ASP.NET-Core-6-and-Angular-main\Chapter_06\WorldCities\WorldCitiesAPI\Layer.DataAcces\obj\Debug\net6.0\Layer.DataAcces.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Escritorio\NET\ASP.NET-Core-6-and-Angular-main\Chapter_06\WorldCities\WorldCitiesAPI\Layer.DataAcces\obj\Debug\net6.0\Layer.DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Escritorio\NET\ASP.NET-Core-6-and-Angular-main\Chapter_06\WorldCities\WorldCitiesAPI\Layer.DataAcces\obj\Debug\net6.0\Layer.DataAcces.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Escritorio\NET\ASP.NET-Core-6-and-Angular-main\Chapter_06\WorldCities\WorldCitiesAPI\Layer.DataAcces\obj\Debug\net6.0\Layer.DataAcces.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Escritorio\NET\ASP.NET-Core-6-and-Angular-main\Chapter_06\WorldCities\WorldCitiesAPI\Layer.DataAcces\obj\Debug\net6.0\Layer.DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Escritorio\NET\ASP.NET-Core-6-and-Angular-main\Chapter_06\WorldCities\WorldCitiesAPI\Layer.DataAcces\obj\Debug\net6.0\Layer.DataAcces.dll
+C:\Users\HP\OneDrive\Escritorio\NET\ASP.NET-Core-6-and-Angular-main\Chapter_06\WorldCities\WorldCitiesAPI\Layer.DataAcces\obj\Debug\net6.0\refint\Layer.DataAcces.dll
+C:\Users\HP\OneDrive\Escritorio\NET\ASP.NET-Core-6-and-Angular-main\Chapter_06\WorldCities\WorldCitiesAPI\Layer.DataAcces\obj\Debug\net6.0\Layer.DataAcces.pdb
+C:\Users\HP\OneDrive\Escritorio\NET\ASP.NET-Core-6-and-Angular-main\Chapter_06\WorldCities\WorldCitiesAPI\Layer.DataAcces\obj\Debug\net6.0\Layer.DataAcces.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Escritorio\NET\ASP.NET-Core-6-and-Angular-main\Chapter_06\WorldCities\WorldCitiesAPI\Layer.DataAcces\obj\Debug\net6.0\ref\Layer.DataAcces.dll
